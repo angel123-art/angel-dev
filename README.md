@@ -17,6 +17,6 @@
 - Buenas prácticas en programación
 
 📫 Contacto:
-- Email: tuemail@gmail.com
+- Email: angelespinozagithub@gmail.com
 - LinkedIn: (cuando lo tengas)
 
