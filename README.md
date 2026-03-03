@@ -18,5 +18,5 @@
 
 📫 Contacto:
 - Email: angelespinozagithub@gmail.com
-- LinkedIn: (cuando lo tengas)
+
 
